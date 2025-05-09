@@ -1,3 +1,1 @@
-1. Project Create ✅
-2. Tailwind ✅
-3. Routing 
+
